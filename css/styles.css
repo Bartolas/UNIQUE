@@ -1,0 +1,117 @@
+html{
+    font-size:1rem;
+}
+
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:1.5;
+}
+
+
+#hero h1,#hero p{
+    max-width:50ch;
+}
+
+
+.btn-cta{
+    background:#464646;
+    color:#fff;
+    text-transform:capitalize;
+    font-weight:bold;
+}
+
+.btn-cta:hover,.btn-cta:active{
+    background:#222121;
+    color:#fff;
+}
+
+.btn-second{
+    background:#ffc038;
+    color:#333;
+    text-transform:capitalize;
+    font-weight:bold;
+}
+
+.btn-second:hover,.btn-second:active{
+    background:#fdb210;
+    color:#333;
+
+}
+
+
+ul{
+    padding:0;
+    margin:0;
+    list-style:none;
+    
+}
+
+.bg-primary {
+    background-color: #ffc038!important;
+}
+
+#hero{
+    background-color:#ffc038;
+}
+
+#section-our-packages{
+    background:#f9f9f9;
+}
+
+
+
+.card-package-content>ul{
+    list-style-type:none;
+    padding:0;
+    margin:0;
+}
+
+.card-package-content>ul>li{
+    margin:0.6rem 0;
+}
+
+#section-our-team-members{
+    background:#ffc038;
+}
+
+#inner-footer{
+    background:#363636;
+}
+
+.content-inner-footer>ul{
+    text-align:left;
+}
+
+.content-inner-footer>h4{
+    color:#fff;
+}
+
+.content-inner-footer>ul>li>a{
+    color:#fff;
+}
+
+.content-inner-footer>ul>li{
+    margin:.6rem;
+}
+
+#footer{
+    
+    background:#363636;
+    text-align:center;
+    
+
+}
+
+#footer>ul>li{
+    display:inline-block;
+}
+
+#footer>p{
+    color:#fff;
+    margin-bottom:0;
+}
+
+#footer>p>a{
+    color:#ffc038;
+}
